@@ -2,9 +2,10 @@
 
 `evernote_to_markdown` is a simple Python tool to convert Evernote data exported
 in an `.enex` file to Markdown files with YAML metadata headers. It depends on
-[lxml] and [pandoc].
+[lxml], [PyYAML], and [pandoc].
 
 [lxml]: http://lxml.de
+[PyYAML]: http://pyyaml.org
 [pandoc]: http://pandoc.org
 
 ## Overview
